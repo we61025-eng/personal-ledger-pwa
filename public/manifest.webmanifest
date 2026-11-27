@@ -1,0 +1,17 @@
+{
+  "name": "極簡多帳戶記帳本",
+  "short_name": "多帳戶記帳",
+  "description": "本機優先的多帳戶、信用卡週期模擬與分期記帳 PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
