@@ -1,5 +1,5 @@
 const CACHE_NAME = 'personal-ledger-pwa-v1';
-const APP_SHELL_ASSETS = ['/', '/index.html', '/manifest.webmanifest', '/icon.svg'];
+const APP_SHELL_ASSETS = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
